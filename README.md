@@ -1,24 +1,9 @@
-# README
+# Friends list app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello my name is Jaspinder Kaur
 
-Things you may want to cover:
+This is ruby on rails project
 
-* Ruby version
+this uses decise for user management and have another model called firend.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You can Sign up, Login, Logout, CRUD firends and display friends associated with current user.
